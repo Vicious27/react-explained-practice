@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 2em;
+  font-size: 1.5em;
+  background: rgba(194, 176, 176, 0.973);
+  text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+a {
+  color: rgba(112, 50, 109, 0.918);
+}
+
+a::after {
+  color: rgba(126, 69, 126, 0.904);
+}
